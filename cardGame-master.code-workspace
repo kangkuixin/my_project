@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../cocos2d"
+		}
+	],
+	"settings": {}
+}
